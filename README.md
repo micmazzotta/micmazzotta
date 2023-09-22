@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micmazzotta
 - 👀 I’m interested in PHP, HTML, CSS, Javascript, LMS, Moodle, Laravel, CMS
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on LMS, Laravel
+
 
 
 <!---
